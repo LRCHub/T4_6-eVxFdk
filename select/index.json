@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "SE ～Self-Hatred～",
+  "base_artist": "DEXCORE",
+  "createdAt": "2026-03-11T14:28:45.313861Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Self-Hatred",
+      "artist": "DEXCORE",
+      "has_synced": false,
+      "path": "select/pl_01_Self-Hatred_DEXCORE.txt"
+    }
+  ]
+}
